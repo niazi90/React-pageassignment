@@ -5,10 +5,10 @@
 }
 .parentnavbar{
    
-    display: flex;
-  justify-content:space-between;
-    flex-direction:row;
-
+  display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 1275px;
 }
 .childnavbar ul{
  
@@ -43,6 +43,10 @@ gap: 30px;
     border-radius: 500px;
   
         margin-left: -6px;
+}
+.buttonss{
+  width: 300px;
+  display: flex;
 }
 .signinbtn{
    width: 85px;
