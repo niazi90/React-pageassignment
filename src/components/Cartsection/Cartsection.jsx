@@ -1,5 +1,5 @@
 import React from 'react'
-import './cartsection.css'
+import './cartsections.css'
 const Cartsection = ({image,heading,title}) => {
   return (
     <div className='cartsection'>
