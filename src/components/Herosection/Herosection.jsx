@@ -1,6 +1,7 @@
 import React from 'react'
 import './Herosection.css'
 import Card from './crad'
+import imagewom from '../../assets/women-removebg-preview.png'
 import myimage from '../../assets/totalearning.png'
 import myimage1 from '../../assets/total.png'
 import myimage2 from '../../assets/totalproject.png'
@@ -25,7 +26,7 @@ const Herosection = () => {
         <div className='circleblue'></div>
         <div className='circleyellow'></div>
       </div>
-        <img  className='imagewomen' src="./src/assets/women-removebg-preview.png" alt="ijo" />
+        <img  className='imagewomen' src={imagewom} alt="ijo" />
       <div className='imagecircle'></div>
       </div> }
      
