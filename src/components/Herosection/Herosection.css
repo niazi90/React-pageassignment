@@ -1,0 +1,82 @@
+.heroheading {
+  width: 210px;
+}
+.para {
+  width: 413px;
+  color: gray;
+}
+.business_email {
+  border-radius: 27px;
+  width: 282px;
+  height: 36px;
+}
+input {
+  font-size: 17px;
+  padding-left: 16px;
+}
+.getbtn {
+  background-color: rgba(245, 189, 8, 0.897);
+
+  border-radius: 15px 16px 16px 15px;
+  border-color: rgb(255, 255, 255);
+  width: 98px;
+  height: 37px;
+  margin-left: -109px;
+}
+.parenthero {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: -29px;
+  width: 1276px;
+}
+.imagewomen {
+  position: relative;
+  z-index: 0;
+  margin-right: -189px;
+  width: 234px;
+}
+.imagecircle {
+  width: 279px;
+  margin-top: 95px;
+  margin-right: -10px;
+  height: 218px;
+  background-color: rgba(245, 189, 8, 0.897);
+  z-index: -1;
+  border-radius: 452px 336px 0px 24px;
+}
+.pimagecircle {
+  display: flex;
+  flex-direction: row;
+}
+.parentcircle {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+  justify-content: flex-start;
+  align-items: flex-end;
+  width: 67px;
+  z-index: -1;
+  margin-right: -68px;
+  margin-bottom: 66px;
+}
+.circleblue {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: blue;
+}
+.circleyellow {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin-left: -18px;
+  background-color: yellow;
+}
+.cardp {
+  display: flex;
+  flex-direction: row;
+  width: 0px;
+  height: 78px;
+  background-color: red;
+}

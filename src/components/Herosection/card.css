@@ -1,0 +1,19 @@
+.cardparent{
+         display: flex;
+    flex-direction: row;
+    background-color: #f7fafd;
+    width: 230px;
+    height: 106px;
+    margin-top: 10px;
+    margin-right: 9px;
+    align-items: center;
+}.cradheading{
+       width: 108px;
+    font-size: 15px;
+    color: gray;
+
+}.percentage{
+     width: 108px;
+    font-size: 15px;
+    color: gray;
+}
